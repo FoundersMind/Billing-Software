@@ -1,0 +1,19 @@
+ Welcome to Mukesh & Brothers
+ Bill Number:8630
+ Customer Number:naman
+ Phone Number:8319566210
+ Customer Email Number:
+ =============================
+
+ products		 QTY 	 price
+ ==============================
+
+ sunflower		1	420
+ sunflower		1	420
+ sunflower		1	420
+
+ =========================
+ Sub Amount:		Rs1680.00
+ Tax Amount:		 Rs12.60 
+ Total Amount:		 Rs1692.60 
+ =========================

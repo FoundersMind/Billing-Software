@@ -1,0 +1,18 @@
+ Welcome to Mukesh & Brothers
+ Bill Number:8097
+ Customer Number:
+ Phone Number:
+ Customer Email Number:
+ =============================
+
+ products		 QTY 	 price
+ ==============================
+
+ fortune1		1	120
+ fortune1		1	120
+
+ =========================
+ Sub Amount:		Rs360.00
+ Tax Amount:		 Rs2.40 
+ Total Amount:		 Rs362.40 
+ =========================

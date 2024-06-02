@@ -1,0 +1,17 @@
+ Welcome to Mukesh & Brothers
+ Bill Number:4872
+ Customer Number:Mukesh Jain
+ Phone Number:8319566210
+ Customer Email Number:Njbhandari4@gmail.com
+ ==============================
+
+ products		 QTY 	 price
+ ============================== 
+ sunflower		3	1260
+ fortune1		1	120
+ kashmiri		1	1600
+ =========================
+ Sub Amount:		Rs2980.00
+ Tax Amount:		 Rs13.80 
+ Total Amount:		 Rs2993.80 
+ =========================

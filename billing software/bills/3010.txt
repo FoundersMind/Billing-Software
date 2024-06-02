@@ -1,0 +1,14 @@
+ Welcome to Mukesh & Brothers
+ Bill Number:3010
+ Customer Number:Naman Jain
+ Phone Number:8770500434
+ Customer Email Number:Njbhandari4@gmail.com
+ ================================
+
+ products		QTY		price
+ ================================ fortune1		4	480
+ ========================= 
+Sub Amount:	Rs480.00
+ Tax Amount:	 Rs3.60 
+ Total Amount:	 Rs483.60 
+ =========================
